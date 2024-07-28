@@ -2,7 +2,7 @@
 // @name         Bibtex复制
 // @namespace    CaNoe
 // @version      0.1
-// @description  在学术网站上直接复制bibtex到剪贴板，免去跳转步骤，请在设置中开启“导入BibTeX”按钮。
+// @description  直接复制bibtex到剪贴板
 // @author       CaNoe
 // @match        https://scholar.google.com/scholar*
 // @match        https://scholar.google.com.hk/scholar*
